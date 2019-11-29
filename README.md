@@ -44,6 +44,8 @@ Some downsides of this approach are needing to do your own math and a [requireme
   
   This spreadsheet and script are provided as-is and I will hold no liability for any miscalculations, inaccuracies in your application or broken hopes and dreams. Be sure to always double-check everything you're submitting **manually** to ensure the utmost accuracy.
   
+  This project is not endorsed by and not associated in any way with Citizenship and Immigration Canada or any other government entity.
+  
   # License
   
   You're welcome to use, distribute and do whatever you want with this, as long as you're not pursuing commercial gain from it.
