@@ -39,3 +39,11 @@ Some downsides of this approach are needing to do your own math and a [requireme
 * Click "OK", after which all the absences will be filled out automatically
   * If you see some errors, double-check that you've followed the steps above correctly and the format is consistent
   * If you see missing countries in the final list, modify the script to include the name override to match the entry in the list (_and submit a PR_)
+  
+  # Disclaimer
+  
+  This spreadsheet and script are provided as-is and I will hold no liability for any miscalculations, inaccuracies in your application or broken hopes and dreams. Be sure to always double-check everything you're submitting **manually** to ensure the utmost accuracy.
+  
+  # License
+  
+  You're welcome to use, distribute and do whatever you want with this, as long as you're not pursuing commercial gain from it.
